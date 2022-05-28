@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="note">Note</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="description_optional">Description (Optional)</string>
+    <string name="button">Button</string>
+</resources>
